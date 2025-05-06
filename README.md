@@ -1,5 +1,5 @@
 <h1>RL-driven Crop Rotation Planner</h1>
-<p>Crop rotation is a technique that farmers use to manage soil nutrients - crops are alternated each season to avoid overuse. We propose a reinforcement learning framework to predict crop rotation sequences, balancing short-term yield and long-term soil health through Deep Q-Networks (DQN). Our approach performs worse than random and myopic policies in optimizing long-term reward.</p>
+<p>Crop rotation is a technique that farmers use to manage soil nutrients - crops are alternated each season to avoid overuse. We propose a reinforcement learning framework to predict crop rotation sequences, balancing short-term yield and long-term soil health through Deep Q-Networks (DQN). Our approach performs better than a random policy and worse than a myopic policy in optimizing long-term reward.</p>
 
 Dataset is taken from Kaggle.
 <cite>https://www.kaggle.com/datasets/abhaysasthas/crop-rotation-dataset</cite>
