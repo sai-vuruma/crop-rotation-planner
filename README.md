@@ -23,7 +23,7 @@ Follow these instructions to replicate the results:
 
 <ol>
 <li>Create the conda enviroment</li>
-<code>conda create -f env.yaml</code>
+<code>conda env create -f env.yaml</code>
 
 <li>Activate the conda environment</li>
 <code>conda activate crop-rotation</code>
